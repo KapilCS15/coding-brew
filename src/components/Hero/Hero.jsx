@@ -52,7 +52,7 @@ const Hero = () => {
                   <h1 className="text-2xl font-thin">Robust, rich coffee, everyday !!</h1>
                   <h1 className="text-sm opacity-55 leading-loose">
                   New to Specialty Coffee? <br />
-                  Let's start brewing! Check beginner-friendly products <br /> to get started.
+                  Let's begin brewing! Check beginner-friendly products <br /> to get started.
                   </h1>
                 </div>
                 <div className="absolute -top-6 -left-10 w-[250px] h-[190px] bg-gray-700/25"></div>
