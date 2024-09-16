@@ -19,7 +19,7 @@ const WhereToBuy = () => {
             }}
             className="text-4xl font-bold text-darkGray font-serif"
           >
-            Buy our products from anywhere
+            Buy our products from our site
           </motion.h1>
           <motion.div
             initial={{ opacity: 0, y: 100 }}
