@@ -9,7 +9,7 @@ import {
 import { FaMapLocation } from "react-icons/fa6";
 import CreditCards from "../../assets/website/credit-cards.webp";
 import { motion } from "framer-motion";
-import { BiFontFamily } from "react-icons/bi";
+// import { BiFontFamily } from "react-icons/bi";
 
 const Footer = () => {
   return (

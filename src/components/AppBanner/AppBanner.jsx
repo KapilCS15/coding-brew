@@ -33,7 +33,7 @@ const AppBanner = () => {
               }}
               className="text-2xl text-center sm:text-4xl font-semibold"
             >
-              Download The App
+              Download Our App
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 100 }}
